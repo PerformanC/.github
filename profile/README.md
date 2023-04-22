@@ -2,9 +2,9 @@
 
 ## Welcome
 
-Welcome to The PerformanC Org, we're a organization focused on making libraries with an incredible performance, compability and security.
+Welcome to The PerformanC Org, we're a organization focused on making software with an incredible performance, compability and security.
 
-We for now only make C libraries, but not limited to, and all PerformanC projects are licensed with the same license, which can be seen in any repository.
+We have JavaScript and C softwares, all of them with the same purpose, but in case you want to be a PerformanC member, submit your propose to performancorg@gmail.com.
 
 ## Projects
 
@@ -13,6 +13,7 @@ We've made a lot of projects till this point, take a look at a list of some inte
 1. [TableC](https://github.com/PerformanC/TableC) - An Open and closed addressing hashtable for C focusing on being light-weight.
 2. [Coglink](https://github.com/PerformanC/Coglink) - Lavalink client for Concord, using a simple but flexible API.
 3. [CThreads](https://github.com/PerformanC/CThreads) - (WIP) Cross-platform thread library using pthreads (POSIX) and Windows threads.
+4. [NodeLink](https://github.com/PerformanC/NodeLink) - Lightweight audio sending node lavalink based.
 
 ## PerformanC libs vs general
 
